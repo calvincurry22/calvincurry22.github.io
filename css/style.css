@@ -1412,4 +1412,16 @@ input[type="text"] {
 
 .techCard {
   box-shadow: 0px 5px 8px 0px rgba(50, 50, 50, 1);
+  width: 380px;
+  height: 305px;
 }
+
+.techDescription{
+  font-size: 18px;
+}
+
+.linkedIn{
+  width: 24px;
+  height: 24px;
+}
+
